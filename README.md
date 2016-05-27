@@ -1,4 +1,4 @@
-# MineServ
+# MineServ-Python  
 Muiti-Platform VPS Controling APP  
   
 # License  
